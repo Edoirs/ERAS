@@ -1,0 +1,4 @@
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Models\bin\x64\Release\EIRS.Models.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Models\obj\x64\Release\EIRS.Models.csproj.AssemblyReference.cache
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Models\obj\x64\Release\EIRS.Models.csproj.CoreCompileInputs.cache
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Models\obj\x64\Release\EIRS.Models.dll

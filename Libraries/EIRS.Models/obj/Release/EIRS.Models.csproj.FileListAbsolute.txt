@@ -1,0 +1,33 @@
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Models\bin\Release\EIRS.Models.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Models\bin\Release\EIRS.Models.pdb
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Models\obj\Release\EIRS.Models.csproj.AssemblyReference.cache
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Models\obj\Release\EIRS.Models.csproj.CoreCompileInputs.cache
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Models\obj\Release\EIRS.Models.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Models\obj\Release\EIRS.Models.pdb
+C:\Official Projects\EIRS\Libraries\EIRS.Models\bin\Release\EIRS.Models.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Models\bin\Release\EIRS.Models.pdb
+C:\Official Projects\EIRS\Libraries\EIRS.Models\obj\Release\EIRS.Models.csproj.AssemblyReference.cache
+C:\Official Projects\EIRS\Libraries\EIRS.Models\obj\Release\EIRS.Models.csproj.CoreCompileInputs.cache
+C:\Official Projects\EIRS\Libraries\EIRS.Models\obj\Release\EIRS.Models.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Models\obj\Release\EIRS.Models.pdb
+C:\Official Projects\EIRS\Libraries\EIRS.Models\bin\Release\Newtonsoft.Json.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Models\bin\Release\Newtonsoft.Json.xml
+C:\Official Projects\EIRS\Libraries\EIRS.Models\obj\Release\EIRS.Models.csproj.CopyComplete
+C:\Users\Temitayo\eras\Libraries\EIRS.Models\bin\Release\EIRS.Models.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Models\bin\Release\EIRS.Models.pdb
+C:\Users\Temitayo\eras\Libraries\EIRS.Models\bin\Release\Newtonsoft.Json.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Models\bin\Release\Newtonsoft.Json.xml
+C:\Users\Temitayo\eras\Libraries\EIRS.Models\obj\Release\EIRS.Models.csproj.AssemblyReference.cache
+C:\Users\Temitayo\eras\Libraries\EIRS.Models\obj\Release\EIRS.Models.csproj.CoreCompileInputs.cache
+C:\Users\Temitayo\eras\Libraries\EIRS.Models\obj\Release\EIRS.Models.csproj.CopyComplete
+C:\Users\Temitayo\eras\Libraries\EIRS.Models\obj\Release\EIRS.Models.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Models\obj\Release\EIRS.Models.pdb
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Models\bin\Release\EIRS.Models.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Models\bin\Release\EIRS.Models.pdb
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Models\bin\Release\Newtonsoft.Json.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Models\bin\Release\Newtonsoft.Json.xml
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Models\obj\Release\EIRS.Models.csproj.AssemblyReference.cache
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Models\obj\Release\EIRS.Models.csproj.CoreCompileInputs.cache
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Models\obj\Release\EIRS.Models.csproj.CopyComplete
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Models\obj\Release\EIRS.Models.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Models\obj\Release\EIRS.Models.pdb

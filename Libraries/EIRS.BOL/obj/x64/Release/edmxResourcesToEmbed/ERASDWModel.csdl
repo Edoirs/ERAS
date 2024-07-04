@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ERASDWModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ERASDWEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PAYEInputs" EntityType="ERASDWModel.PAYEInput" />
+    <EntitySet Name="PAYEOutputs" EntityType="ERASDWModel.PAYEOutput" />
+    <EntitySet Name="vw_PAYEInputList" EntityType="ERASDWModel.vw_PAYEInputList" />
+    <EntitySet Name="vw_PAYEOutput" EntityType="ERASDWModel.vw_PAYEOutput" />
+    <FunctionImport Name="usp_GetPAYEInputList" ReturnType="Collection(ERASDWModel.usp_GetPAYEInputList_Result)">
+      <Parameter Name="PAYEInputID" Mode="In" Type="Int32" />
+      <Parameter Name="Employer_RIN" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="usp_GETPAYEOutput" ReturnType="Collection(ERASDWModel.usp_GETPAYEOutput_Result)">
+      <Parameter Name="PayeOutputID" Mode="In" Type="Int32" />
+      <Parameter Name="Employer_RIN" Mode="In" Type="String" />
+    </FunctionImport>
+    <EntitySet Name="vw_DAInputList" EntityType="ERASDWModel.vw_DAInputList" />
+    <FunctionImport Name="usp_GetDAInputList" ReturnType="Collection(ERASDWModel.usp_GetDAInputList_Result)">
+      <Parameter Name="DAInputID" Mode="In" Type="Int32" />
+      <Parameter Name="Taxpayer_RIN" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="usp_GetDAOutputList" ReturnType="Collection(ERASDWModel.usp_GetDAOutputList_Result)">
+      <Parameter Name="DAOutputID" Mode="In" Type="Int32" />
+      <Parameter Name="Taxpayer_RIN" Mode="In" Type="String" />
+    </FunctionImport>
+    <EntitySet Name="vw_DAOutputList" EntityType="ERASDWModel.vw_DAOutputList" />
+    <EntitySet Name="DAInputs" EntityType="ERASDWModel.DAInput" />
+    <EntitySet Name="DAOutputs" EntityType="ERASDWModel.DAOutput" />
+    <FunctionImport Name="usp_RPT_PAYEOutputAggregationList" ReturnType="Collection(ERASDWModel.usp_RPT_PAYEOutputAggregationList_Result)">
+      <Parameter Name="EmployerRIN" Mode="In" Type="String" />
+      <Parameter Name="TaxYear" Mode="In" Type="Int32" />
+      <Parameter Name="TaxOfficeID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_RPT_PAYEOutputAggregationSummary" ReturnType="Collection(ERASDWModel.usp_RPT_PAYEOutputAggregationSummary_Result)">
+      <Parameter Name="TaxYear" Mode="In" Type="Int32" />
+      <Parameter Name="TaxOfficeID" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <EntityType Name="PAYEInput">
+    <Key>
+      <PropertyRef Name="PAYEinputID" />
+    </Key>
+    <Property Name="PAYEinputID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TransactionDate" Type="DateTime" Precision="3" />
+    <Property Name="Employer_RIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Employee_RIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Tax_Office" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Assessment_Year" Type="Int32" />
+    <Property Name="Start_Month" Type="Int32" />
+    <Property Name="End_Month" Type="Int32" />
+    <Property Name="Annual_Basic" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Rent" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Transport" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Utility" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Meal" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Other_Allowances_Annual" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Leave_Transport_Grant_Annual" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="pension_contribution_declared" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="nhf_contribution_declared" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="nhis_contribution_declared" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="CreatedBy" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy" Type="Int32" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="PAYEOutput">
+    <Key>
+      <PropertyRef Name="PAYEOutputID" />
+    </Key>
+    <Property Name="PAYEOutputID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Transaction_Date" Type="DateTime" Precision="3" />
+    <Property Name="Employer_Rin" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Employee_Rin" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="AssessmentYear" Type="Int32" />
+    <Property Name="Assessment_Month" Type="Int32" />
+    <Property Name="Monthly_Gross" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_CRA" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ValidatedPension" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ValidatedNHF" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ValidatedNHIS" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_TaxFreePay" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ChargeableIncome" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_Tax" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Tax_Office" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="CreatedBy" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy" Type="Int32" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="vw_PAYEInputList">
+    <Key>
+      <PropertyRef Name="PAYEinputID" />
+    </Key>
+    <Property Name="PAYEinputID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TransactionDate" Type="DateTime" Precision="3" />
+    <Property Name="Employer_RIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Employee_RIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Tax_Office" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Assessment_Year" Type="Int32" />
+    <Property Name="Start_Month" Type="Int32" />
+    <Property Name="End_Month" Type="Int32" />
+    <Property Name="Annual_Basic" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Transport" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Utility" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Meal" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Other_Allowances_Annual" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Leave_Transport_Grant_Annual" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="pension_contribution_declared" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="nhf_contribution_declared" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="nhis_contribution_declared" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Rent" Type="Decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityType Name="vw_PAYEOutput">
+    <Key>
+      <PropertyRef Name="PAYEOutputID" />
+    </Key>
+    <Property Name="PAYEOutputID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Transaction_Date" Type="DateTime" Precision="3" />
+    <Property Name="Employer_Rin" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Employee_Rin" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="AssessmentYear" Type="Int32" />
+    <Property Name="Assessment_Month" Type="Int32" />
+    <Property Name="Monthly_Gross" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_CRA" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ValidatedPension" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ValidatedNHF" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ValidatedNHIS" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_TaxFreePay" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ChargeableIncome" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_Tax" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Tax_Office" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <ComplexType Name="usp_GetPAYEInputList_Result">
+    <Property Type="Int32" Name="PAYEInputID" Nullable="true" />
+    <Property Type="DateTime" Name="transaction_date" Nullable="true" Precision="23" />
+    <Property Type="String" Name="employer_rin" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="employee_rin" Nullable="true" MaxLength="500" />
+    <Property Type="Int32" Name="assessment_year" Nullable="true" />
+    <Property Type="Int32" Name="start_month" Nullable="true" />
+    <Property Type="Int32" Name="end_month" Nullable="true" />
+    <Property Type="Decimal" Name="annual_basic" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="annual_rent" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="annual_transport" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="annual_utility" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="annual_meal" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="other_allowances_annual" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="leave_transport_grant_annual" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="pension_contribution_declared" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="nhf_contribution_declared" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="nhis_contribution_declared" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="String" Name="Tax_Office" Nullable="true" MaxLength="500" />
+  </ComplexType>
+  <ComplexType Name="usp_GETPAYEOutput_Result">
+    <Property Type="Int32" Name="PayeOutputID" Nullable="true" />
+    <Property Type="DateTime" Name="Transaction_Date" Nullable="true" Precision="23" />
+    <Property Type="String" Name="Employer_Rin" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Employee_Rin" Nullable="true" MaxLength="500" />
+    <Property Type="Int32" Name="AssessmentYear" Nullable="true" />
+    <Property Type="Int32" Name="Assessment_Month" Nullable="true" />
+    <Property Type="Decimal" Name="Monthly_Gross" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="Monthly_CRA" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="Monthly_ValidatedPension" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="Monthly_ValidatedNHF" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="Monthly_ValidatedNHIS" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="Monthly_TaxFreePay" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="Monthly_ChargeableIncome" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="Monthly_Tax" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="String" Name="Tax_Office" Nullable="true" MaxLength="500" />
+  </ComplexType>
+  <EntityType Name="vw_DAInputList">
+    <Key>
+      <PropertyRef Name="DAInputID" />
+    </Key>
+    <Property Name="DAInputID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="transaction_date" Type="DateTime" Precision="3" />
+    <Property Name="Taxpayer_RIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Taxpayer_TIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Business_RIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Business_TIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Salaries" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Wages" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Trade" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Share_of_Partnership_Profit" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Commissions_Recieved" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Bonuses" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Gratuities" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Annuity" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Rent" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Interest_on_Discount" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Other_Incomes_Not_Included" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Total_Income" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Pension_Contribution_Declared" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="NHF__Declared" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="NHIS_Declared" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Life_Assurance" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_Pension" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_NHF" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_NHIS" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Employee_PAYE_Contribution" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_Income" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Assessment_Year" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Start_Month" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="tax_office" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <ComplexType Name="usp_GetDAInputList_Result">
+    <Property Type="Int32" Name="DAInputID" Nullable="true" />
+    <Property Type="DateTime" Name="transaction_date" Nullable="true" Precision="23" />
+    <Property Type="String" Name="Taxpayer_RIN" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Taxpayer_TIN" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Business_RIN" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Business_TIN" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Salaries" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Wages" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Trade" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Share_of_Partnership_Profit" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Commissions_Recieved" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Bonuses" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Gratuities" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Annuity" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Rent" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Interest_on_Discount" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Other_Incomes_Not_Included" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Total_Income" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Pension_Contribution_Declared" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="NHF__Declared" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="NHIS_Declared" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Life_Assurance" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="PAYE_Pension" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="PAYE_NHF" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="PAYE_NHIS" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Employee_PAYE_Contribution" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="PAYE_Income" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Assessment_Year" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Start_Month" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="tax_office" Nullable="true" MaxLength="500" />
+  </ComplexType>
+  <ComplexType Name="usp_GetDAOutputList_Result">
+    <Property Type="Int32" Name="DAOutputID" Nullable="true" />
+    <Property Type="DateTime" Name="transaction_date" Nullable="true" Precision="23" />
+    <Property Type="String" Name="Taxpayer_RIN" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Taxpayer_TIN" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Total_Income" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Pension_Contribution_Declared" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="NHF_Declared" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="NHIS_Declared" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Life_Assurance" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="PAYE_Income" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="PAYE_Pension" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="PAYE_NHF" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="PAYE_NHIS" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Employee_PAYE_Contribution" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Share_of_Assessment" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Assessment_Year" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="Start_Month" Nullable="true" MaxLength="500" />
+    <Property Type="String" Name="tax_office" Nullable="true" MaxLength="500" />
+  </ComplexType>
+  <EntityType Name="vw_DAOutputList">
+    <Key>
+      <PropertyRef Name="DAOutputID" />
+    </Key>
+    <Property Name="DAOutputID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="transaction_date" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Taxpayer_RIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Taxpayer_TIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Business_RIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Business_TIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Total_Income" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Pension_Contribution_Declared" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="NHF_Declared" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="NHIS_Declared" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Life_Assurance" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_Income" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_Pension" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_NHF" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_NHIS" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Employee_PAYE_Contribution" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Share_of_Assessment" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Assessment_Year" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="tax_office" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="DAInput">
+    <Key>
+      <PropertyRef Name="DAInputID" />
+    </Key>
+    <Property Name="DAInputID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="transaction_date" Type="DateTime" Precision="3" />
+    <Property Name="Taxpayer_RIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Taxpayer_TIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Business_RIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Business_TIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Salaries" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Wages" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Trade" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Share_of_Partnership_Profit" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Commissions_Recieved" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Bonuses" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Gratuities" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Annuity" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Rent" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Interest_on_Discount" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Other_Incomes_Not_Included" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Total_Income" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Pension_Contribution_Declared" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="NHF__Declared" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="NHIS_Declared" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Life_Assurance" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_Pension" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_NHF" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_NHIS" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Employee_PAYE_Contribution" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_Income" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Assessment_Year" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Start_Month" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="tax_office" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="CreatedBy" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy" Type="Int32" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="DAOutput">
+    <Key>
+      <PropertyRef Name="DAOutputID" />
+    </Key>
+    <Property Name="DAOutputID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="transaction_date" Type="DateTime" Precision="3" />
+    <Property Name="Taxpayer_RIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Taxpayer_TIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Business_RIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Business_TIN" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Total_Income" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Pension_Contribution_Declared" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="NHF_Declared" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="NHIS_Declared" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Life_Assurance" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_Income" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_Pension" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_NHF" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="PAYE_NHIS" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Employee_PAYE_Contribution" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Share_of_Assessment" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Assessment_Year" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="tax_office" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="CreatedBy" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy" Type="Int32" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <ComplexType Name="usp_RPT_PAYEOutputAggregationList_Result">
+    <Property Type="String" Name="EmployeeName" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="EmployeeRIN" Nullable="false" MaxLength="10" />
+    <Property Type="Decimal" Name="AmountContributed" Nullable="false" Precision="18" Scale="2" />
+  </ComplexType>
+  <ComplexType Name="usp_RPT_PAYEOutputAggregationSummary_Result">
+    <Property Type="String" Name="EmployerName" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="EmployerRIN" Nullable="false" MaxLength="10" />
+    <Property Type="Int32" Name="EmployeeCount" Nullable="false" />
+    <Property Type="Decimal" Name="AmountCollected" Nullable="false" Precision="18" Scale="2" />
+  </ComplexType>
+</Schema>

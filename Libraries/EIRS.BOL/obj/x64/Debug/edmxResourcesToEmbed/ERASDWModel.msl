@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ERASDWModelStoreContainer" CdmEntityContainer="ERASDWEntities">
+    <EntitySetMapping Name="PAYEInputs">
+      <EntityTypeMapping TypeName="ERASDWModel.PAYEInput">
+        <MappingFragment StoreEntitySet="PAYEInput">
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="nhis_contribution_declared" ColumnName="nhis_contribution_declared" />
+          <ScalarProperty Name="nhf_contribution_declared" ColumnName="nhf_contribution_declared" />
+          <ScalarProperty Name="pension_contribution_declared" ColumnName="pension_contribution_declared" />
+          <ScalarProperty Name="Leave_Transport_Grant_Annual" ColumnName="Leave_Transport_Grant_Annual" />
+          <ScalarProperty Name="Other_Allowances_Annual" ColumnName="Other_Allowances_Annual" />
+          <ScalarProperty Name="Annual_Meal" ColumnName="Annual_Meal" />
+          <ScalarProperty Name="Annual_Utility" ColumnName="Annual_Utility" />
+          <ScalarProperty Name="Annual_Transport" ColumnName="Annual_Transport" />
+          <ScalarProperty Name="Annual_Rent" ColumnName="Annual_Rent" />
+          <ScalarProperty Name="Annual_Basic" ColumnName="Annual_Basic" />
+          <ScalarProperty Name="End_Month" ColumnName="End_Month" />
+          <ScalarProperty Name="Start_Month" ColumnName="Start_Month" />
+          <ScalarProperty Name="Assessment_Year" ColumnName="Assessment_Year" />
+          <ScalarProperty Name="Tax_Office" ColumnName="Tax_Office" />
+          <ScalarProperty Name="Employee_RIN" ColumnName="Employee_RIN" />
+          <ScalarProperty Name="Employer_RIN" ColumnName="Employer_RIN" />
+          <ScalarProperty Name="TransactionDate" ColumnName="TransactionDate" />
+          <ScalarProperty Name="PAYEinputID" ColumnName="PAYEinputID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PAYEOutputs">
+      <EntityTypeMapping TypeName="ERASDWModel.PAYEOutput">
+        <MappingFragment StoreEntitySet="PAYEOutput">
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Tax_Office" ColumnName="Tax_Office" />
+          <ScalarProperty Name="Monthly_Tax" ColumnName="Monthly_Tax" />
+          <ScalarProperty Name="Monthly_ChargeableIncome" ColumnName="Monthly_ChargeableIncome" />
+          <ScalarProperty Name="Monthly_TaxFreePay" ColumnName="Monthly_TaxFreePay" />
+          <ScalarProperty Name="Monthly_ValidatedNHIS" ColumnName="Monthly_ValidatedNHIS" />
+          <ScalarProperty Name="Monthly_ValidatedNHF" ColumnName="Monthly_ValidatedNHF" />
+          <ScalarProperty Name="Monthly_ValidatedPension" ColumnName="Monthly_ValidatedPension" />
+          <ScalarProperty Name="Monthly_CRA" ColumnName="Monthly_CRA" />
+          <ScalarProperty Name="Monthly_Gross" ColumnName="Monthly_Gross" />
+          <ScalarProperty Name="Assessment_Month" ColumnName="Assessment_Month" />
+          <ScalarProperty Name="AssessmentYear" ColumnName="AssessmentYear" />
+          <ScalarProperty Name="Employee_Rin" ColumnName="Employee_Rin" />
+          <ScalarProperty Name="Employer_Rin" ColumnName="Employer_Rin" />
+          <ScalarProperty Name="Transaction_Date" ColumnName="Transaction_Date" />
+          <ScalarProperty Name="PAYEOutputID" ColumnName="PAYEOutputID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vw_PAYEInputList">
+      <EntityTypeMapping TypeName="ERASDWModel.vw_PAYEInputList">
+        <MappingFragment StoreEntitySet="vw_PAYEInputList">
+          <ScalarProperty Name="Annual_Rent" ColumnName="Annual_Rent" />
+          <ScalarProperty Name="nhis_contribution_declared" ColumnName="nhis_contribution_declared" />
+          <ScalarProperty Name="nhf_contribution_declared" ColumnName="nhf_contribution_declared" />
+          <ScalarProperty Name="pension_contribution_declared" ColumnName="pension_contribution_declared" />
+          <ScalarProperty Name="Leave_Transport_Grant_Annual" ColumnName="Leave_Transport_Grant_Annual" />
+          <ScalarProperty Name="Other_Allowances_Annual" ColumnName="Other_Allowances_Annual" />
+          <ScalarProperty Name="Annual_Meal" ColumnName="Annual_Meal" />
+          <ScalarProperty Name="Annual_Utility" ColumnName="Annual_Utility" />
+          <ScalarProperty Name="Annual_Transport" ColumnName="Annual_Transport" />
+          <ScalarProperty Name="Annual_Basic" ColumnName="Annual_Basic" />
+          <ScalarProperty Name="End_Month" ColumnName="End_Month" />
+          <ScalarProperty Name="Start_Month" ColumnName="Start_Month" />
+          <ScalarProperty Name="Assessment_Year" ColumnName="Assessment_Year" />
+          <ScalarProperty Name="Tax_Office" ColumnName="Tax_Office" />
+          <ScalarProperty Name="Employee_RIN" ColumnName="Employee_RIN" />
+          <ScalarProperty Name="Employer_RIN" ColumnName="Employer_RIN" />
+          <ScalarProperty Name="TransactionDate" ColumnName="TransactionDate" />
+          <ScalarProperty Name="PAYEinputID" ColumnName="PAYEinputID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vw_PAYEOutput">
+      <EntityTypeMapping TypeName="ERASDWModel.vw_PAYEOutput">
+        <MappingFragment StoreEntitySet="vw_PAYEOutput">
+          <ScalarProperty Name="Tax_Office" ColumnName="Tax_Office" />
+          <ScalarProperty Name="Monthly_Tax" ColumnName="Monthly_Tax" />
+          <ScalarProperty Name="Monthly_ChargeableIncome" ColumnName="Monthly_ChargeableIncome" />
+          <ScalarProperty Name="Monthly_TaxFreePay" ColumnName="Monthly_TaxFreePay" />
+          <ScalarProperty Name="Monthly_ValidatedNHIS" ColumnName="Monthly_ValidatedNHIS" />
+          <ScalarProperty Name="Monthly_ValidatedNHF" ColumnName="Monthly_ValidatedNHF" />
+          <ScalarProperty Name="Monthly_ValidatedPension" ColumnName="Monthly_ValidatedPension" />
+          <ScalarProperty Name="Monthly_CRA" ColumnName="Monthly_CRA" />
+          <ScalarProperty Name="Monthly_Gross" ColumnName="Monthly_Gross" />
+          <ScalarProperty Name="Assessment_Month" ColumnName="Assessment_Month" />
+          <ScalarProperty Name="AssessmentYear" ColumnName="AssessmentYear" />
+          <ScalarProperty Name="Employee_Rin" ColumnName="Employee_Rin" />
+          <ScalarProperty Name="Employer_Rin" ColumnName="Employer_Rin" />
+          <ScalarProperty Name="Transaction_Date" ColumnName="Transaction_Date" />
+          <ScalarProperty Name="PAYEOutputID" ColumnName="PAYEOutputID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetPAYEInputList" FunctionName="ERASDWModel.Store.usp_GetPAYEInputList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASDWModel.usp_GetPAYEInputList_Result">
+          <ScalarProperty Name="PAYEInputID" ColumnName="PAYEInputID" />
+          <ScalarProperty Name="transaction_date" ColumnName="transaction_date" />
+          <ScalarProperty Name="employer_rin" ColumnName="employer_rin" />
+          <ScalarProperty Name="employee_rin" ColumnName="employee_rin" />
+          <ScalarProperty Name="assessment_year" ColumnName="assessment_year" />
+          <ScalarProperty Name="start_month" ColumnName="start_month" />
+          <ScalarProperty Name="end_month" ColumnName="end_month" />
+          <ScalarProperty Name="annual_basic" ColumnName="annual_basic" />
+          <ScalarProperty Name="annual_rent" ColumnName="annual_rent" />
+          <ScalarProperty Name="annual_transport" ColumnName="annual_transport" />
+          <ScalarProperty Name="annual_utility" ColumnName="annual_utility" />
+          <ScalarProperty Name="annual_meal" ColumnName="annual_meal" />
+          <ScalarProperty Name="other_allowances_annual" ColumnName="other_allowances_annual" />
+          <ScalarProperty Name="leave_transport_grant_annual" ColumnName="leave_transport_grant_annual" />
+          <ScalarProperty Name="pension_contribution_declared" ColumnName="pension_contribution_declared" />
+          <ScalarProperty Name="nhf_contribution_declared" ColumnName="nhf_contribution_declared" />
+          <ScalarProperty Name="nhis_contribution_declared" ColumnName="nhis_contribution_declared" />
+          <ScalarProperty Name="Tax_Office" ColumnName="Tax_Office" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_GETPAYEOutput" FunctionName="ERASDWModel.Store.usp_GETPAYEOutput">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASDWModel.usp_GETPAYEOutput_Result">
+          <ScalarProperty Name="PayeOutputID" ColumnName="PayeOutputID" />
+          <ScalarProperty Name="Transaction_Date" ColumnName="Transaction_Date" />
+          <ScalarProperty Name="Employer_Rin" ColumnName="Employer_Rin" />
+          <ScalarProperty Name="Employee_Rin" ColumnName="Employee_Rin" />
+          <ScalarProperty Name="AssessmentYear" ColumnName="AssessmentYear" />
+          <ScalarProperty Name="Assessment_Month" ColumnName="Assessment_Month" />
+          <ScalarProperty Name="Monthly_Gross" ColumnName="Monthly_Gross" />
+          <ScalarProperty Name="Monthly_CRA" ColumnName="Monthly_CRA" />
+          <ScalarProperty Name="Monthly_ValidatedPension" ColumnName="Monthly_ValidatedPension" />
+          <ScalarProperty Name="Monthly_ValidatedNHF" ColumnName="Monthly_ValidatedNHF" />
+          <ScalarProperty Name="Monthly_ValidatedNHIS" ColumnName="Monthly_ValidatedNHIS" />
+          <ScalarProperty Name="Monthly_TaxFreePay" ColumnName="Monthly_TaxFreePay" />
+          <ScalarProperty Name="Monthly_ChargeableIncome" ColumnName="Monthly_ChargeableIncome" />
+          <ScalarProperty Name="Monthly_Tax" ColumnName="Monthly_Tax" />
+          <ScalarProperty Name="Tax_Office" ColumnName="Tax_Office" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="vw_DAInputList">
+      <EntityTypeMapping TypeName="ERASDWModel.vw_DAInputList">
+        <MappingFragment StoreEntitySet="vw_DAInputList">
+          <ScalarProperty Name="tax_office" ColumnName="tax_office" />
+          <ScalarProperty Name="Start_Month" ColumnName="Start_Month" />
+          <ScalarProperty Name="Assessment_Year" ColumnName="Assessment_Year" />
+          <ScalarProperty Name="PAYE_Income" ColumnName="PAYE_Income" />
+          <ScalarProperty Name="Employee_PAYE_Contribution" ColumnName="Employee_PAYE_Contribution" />
+          <ScalarProperty Name="PAYE_NHIS" ColumnName="PAYE_NHIS" />
+          <ScalarProperty Name="PAYE_NHF" ColumnName="PAYE_NHF" />
+          <ScalarProperty Name="PAYE_Pension" ColumnName="PAYE_Pension" />
+          <ScalarProperty Name="Life_Assurance" ColumnName="Life_Assurance" />
+          <ScalarProperty Name="NHIS_Declared" ColumnName="NHIS_Declared" />
+          <ScalarProperty Name="NHF__Declared" ColumnName="NHF__Declared" />
+          <ScalarProperty Name="Pension_Contribution_Declared" ColumnName="Pension_Contribution_Declared" />
+          <ScalarProperty Name="Total_Income" ColumnName="Total_Income" />
+          <ScalarProperty Name="Other_Incomes_Not_Included" ColumnName="Other_Incomes_Not_Included" />
+          <ScalarProperty Name="Interest_on_Discount" ColumnName="Interest_on_Discount" />
+          <ScalarProperty Name="Rent" ColumnName="Rent" />
+          <ScalarProperty Name="Annuity" ColumnName="Annuity" />
+          <ScalarProperty Name="Gratuities" ColumnName="Gratuities" />
+          <ScalarProperty Name="Bonuses" ColumnName="Bonuses" />
+          <ScalarProperty Name="Commissions_Recieved" ColumnName="Commissions_Recieved" />
+          <ScalarProperty Name="Share_of_Partnership_Profit" ColumnName="Share_of_Partnership_Profit" />
+          <ScalarProperty Name="Trade" ColumnName="Trade" />
+          <ScalarProperty Name="Wages" ColumnName="Wages" />
+          <ScalarProperty Name="Salaries" ColumnName="Salaries" />
+          <ScalarProperty Name="Business_TIN" ColumnName="Business_TIN" />
+          <ScalarProperty Name="Business_RIN" ColumnName="Business_RIN" />
+          <ScalarProperty Name="Taxpayer_TIN" ColumnName="Taxpayer_TIN" />
+          <ScalarProperty Name="Taxpayer_RIN" ColumnName="Taxpayer_RIN" />
+          <ScalarProperty Name="transaction_date" ColumnName="transaction_date" />
+          <ScalarProperty Name="DAInputID" ColumnName="DAInputID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetDAInputList" FunctionName="ERASDWModel.Store.usp_GetDAInputList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASDWModel.usp_GetDAInputList_Result">
+          <ScalarProperty Name="DAInputID" ColumnName="DAInputID" />
+          <ScalarProperty Name="transaction_date" ColumnName="transaction_date" />
+          <ScalarProperty Name="Taxpayer_RIN" ColumnName="Taxpayer_RIN" />
+          <ScalarProperty Name="Taxpayer_TIN" ColumnName="Taxpayer_TIN" />
+          <ScalarProperty Name="Business_RIN" ColumnName="Business_RIN" />
+          <ScalarProperty Name="Business_TIN" ColumnName="Business_TIN" />
+          <ScalarProperty Name="Salaries" ColumnName="Salaries" />
+          <ScalarProperty Name="Wages" ColumnName="Wages" />
+          <ScalarProperty Name="Trade" ColumnName="Trade" />
+          <ScalarProperty Name="Share_of_Partnership_Profit" ColumnName="Share_of_Partnership_Profit" />
+          <ScalarProperty Name="Commissions_Recieved" ColumnName="Commissions_Recieved" />
+          <ScalarProperty Name="Bonuses" ColumnName="Bonuses" />
+          <ScalarProperty Name="Gratuities" ColumnName="Gratuities" />
+          <ScalarProperty Name="Annuity" ColumnName="Annuity" />
+          <ScalarProperty Name="Rent" ColumnName="Rent" />
+          <ScalarProperty Name="Interest_on_Discount" ColumnName="Interest_on_Discount" />
+          <ScalarProperty Name="Other_Incomes_Not_Included" ColumnName="Other_Incomes_Not_Included" />
+          <ScalarProperty Name="Total_Income" ColumnName="Total_Income" />
+          <ScalarProperty Name="Pension_Contribution_Declared" ColumnName="Pension_Contribution_Declared" />
+          <ScalarProperty Name="NHF__Declared" ColumnName="NHF__Declared" />
+          <ScalarProperty Name="NHIS_Declared" ColumnName="NHIS_Declared" />
+          <ScalarProperty Name="Life_Assurance" ColumnName="Life_Assurance" />
+          <ScalarProperty Name="PAYE_Pension" ColumnName="PAYE_Pension" />
+          <ScalarProperty Name="PAYE_NHF" ColumnName="PAYE_NHF" />
+          <ScalarProperty Name="PAYE_NHIS" ColumnName="PAYE_NHIS" />
+          <ScalarProperty Name="Employee_PAYE_Contribution" ColumnName="Employee_PAYE_Contribution" />
+          <ScalarProperty Name="PAYE_Income" ColumnName="PAYE_Income" />
+          <ScalarProperty Name="Assessment_Year" ColumnName="Assessment_Year" />
+          <ScalarProperty Name="Start_Month" ColumnName="Start_Month" />
+          <ScalarProperty Name="tax_office" ColumnName="tax_office" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetDAOutputList" FunctionName="ERASDWModel.Store.usp_GetDAOutputList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASDWModel.usp_GetDAOutputList_Result">
+          <ScalarProperty Name="DAOutputID" ColumnName="DAOutputID" />
+          <ScalarProperty Name="transaction_date" ColumnName="transaction_date" />
+          <ScalarProperty Name="Taxpayer_RIN" ColumnName="Taxpayer_RIN" />
+          <ScalarProperty Name="Taxpayer_TIN" ColumnName="Taxpayer_TIN" />
+          <ScalarProperty Name="Total_Income" ColumnName="Total_Income" />
+          <ScalarProperty Name="Pension_Contribution_Declared" ColumnName="Pension_Contribution_Declared" />
+          <ScalarProperty Name="NHF_Declared" ColumnName="NHF_Declared" />
+          <ScalarProperty Name="NHIS_Declared" ColumnName="NHIS_Declared" />
+          <ScalarProperty Name="Life_Assurance" ColumnName="Life_Assurance" />
+          <ScalarProperty Name="PAYE_Income" ColumnName="PAYE_Income" />
+          <ScalarProperty Name="PAYE_Pension" ColumnName="PAYE_Pension" />
+          <ScalarProperty Name="PAYE_NHF" ColumnName="PAYE_NHF" />
+          <ScalarProperty Name="PAYE_NHIS" ColumnName="PAYE_NHIS" />
+          <ScalarProperty Name="Employee_PAYE_Contribution" ColumnName="Employee_PAYE_Contribution" />
+          <ScalarProperty Name="Share_of_Assessment" ColumnName="Share_of_Assessment" />
+          <ScalarProperty Name="Assessment_Year" ColumnName="Assessment_Year" />
+          <ScalarProperty Name="Start_Month" ColumnName="Start_Month" />
+          <ScalarProperty Name="tax_office" ColumnName="tax_office" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="vw_DAOutputList">
+      <EntityTypeMapping TypeName="ERASDWModel.vw_DAOutputList">
+        <MappingFragment StoreEntitySet="vw_DAOutputList">
+          <ScalarProperty Name="tax_office" ColumnName="tax_office" />
+          <ScalarProperty Name="Assessment_Year" ColumnName="Assessment_Year" />
+          <ScalarProperty Name="Share_of_Assessment" ColumnName="Share_of_Assessment" />
+          <ScalarProperty Name="Employee_PAYE_Contribution" ColumnName="Employee_PAYE_Contribution" />
+          <ScalarProperty Name="PAYE_NHIS" ColumnName="PAYE_NHIS" />
+          <ScalarProperty Name="PAYE_NHF" ColumnName="PAYE_NHF" />
+          <ScalarProperty Name="PAYE_Pension" ColumnName="PAYE_Pension" />
+          <ScalarProperty Name="PAYE_Income" ColumnName="PAYE_Income" />
+          <ScalarProperty Name="Life_Assurance" ColumnName="Life_Assurance" />
+          <ScalarProperty Name="NHIS_Declared" ColumnName="NHIS_Declared" />
+          <ScalarProperty Name="NHF_Declared" ColumnName="NHF_Declared" />
+          <ScalarProperty Name="Pension_Contribution_Declared" ColumnName="Pension_Contribution_Declared" />
+          <ScalarProperty Name="Total_Income" ColumnName="Total_Income" />
+          <ScalarProperty Name="Business_TIN" ColumnName="Business_TIN" />
+          <ScalarProperty Name="Business_RIN" ColumnName="Business_RIN" />
+          <ScalarProperty Name="Taxpayer_TIN" ColumnName="Taxpayer_TIN" />
+          <ScalarProperty Name="Taxpayer_RIN" ColumnName="Taxpayer_RIN" />
+          <ScalarProperty Name="transaction_date" ColumnName="transaction_date" />
+          <ScalarProperty Name="DAOutputID" ColumnName="DAOutputID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DAInputs">
+      <EntityTypeMapping TypeName="ERASDWModel.DAInput">
+        <MappingFragment StoreEntitySet="DAInput">
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="tax_office" ColumnName="tax_office" />
+          <ScalarProperty Name="Start_Month" ColumnName="Start_Month" />
+          <ScalarProperty Name="Assessment_Year" ColumnName="Assessment_Year" />
+          <ScalarProperty Name="PAYE_Income" ColumnName="PAYE_Income" />
+          <ScalarProperty Name="Employee_PAYE_Contribution" ColumnName="Employee_PAYE_Contribution" />
+          <ScalarProperty Name="PAYE_NHIS" ColumnName="PAYE_NHIS" />
+          <ScalarProperty Name="PAYE_NHF" ColumnName="PAYE_NHF" />
+          <ScalarProperty Name="PAYE_Pension" ColumnName="PAYE_Pension" />
+          <ScalarProperty Name="Life_Assurance" ColumnName="Life_Assurance" />
+          <ScalarProperty Name="NHIS_Declared" ColumnName="NHIS_Declared" />
+          <ScalarProperty Name="NHF__Declared" ColumnName="NHF__Declared" />
+          <ScalarProperty Name="Pension_Contribution_Declared" ColumnName="Pension_Contribution_Declared" />
+          <ScalarProperty Name="Total_Income" ColumnName="Total_Income" />
+          <ScalarProperty Name="Other_Incomes_Not_Included" ColumnName="Other_Incomes_Not_Included" />
+          <ScalarProperty Name="Interest_on_Discount" ColumnName="Interest_on_Discount" />
+          <ScalarProperty Name="Rent" ColumnName="Rent" />
+          <ScalarProperty Name="Annuity" ColumnName="Annuity" />
+          <ScalarProperty Name="Gratuities" ColumnName="Gratuities" />
+          <ScalarProperty Name="Bonuses" ColumnName="Bonuses" />
+          <ScalarProperty Name="Commissions_Recieved" ColumnName="Commissions_Recieved" />
+          <ScalarProperty Name="Share_of_Partnership_Profit" ColumnName="Share_of_Partnership_Profit" />
+          <ScalarProperty Name="Trade" ColumnName="Trade" />
+          <ScalarProperty Name="Wages" ColumnName="Wages" />
+          <ScalarProperty Name="Salaries" ColumnName="Salaries" />
+          <ScalarProperty Name="Business_TIN" ColumnName="Business_TIN" />
+          <ScalarProperty Name="Business_RIN" ColumnName="Business_RIN" />
+          <ScalarProperty Name="Taxpayer_TIN" ColumnName="Taxpayer_TIN" />
+          <ScalarProperty Name="Taxpayer_RIN" ColumnName="Taxpayer_RIN" />
+          <ScalarProperty Name="transaction_date" ColumnName="transaction_date" />
+          <ScalarProperty Name="DAInputID" ColumnName="DAInputID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DAOutputs">
+      <EntityTypeMapping TypeName="ERASDWModel.DAOutput">
+        <MappingFragment StoreEntitySet="DAOutput">
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="tax_office" ColumnName="tax_office" />
+          <ScalarProperty Name="Assessment_Year" ColumnName="Assessment_Year" />
+          <ScalarProperty Name="Share_of_Assessment" ColumnName="Share_of_Assessment" />
+          <ScalarProperty Name="Employee_PAYE_Contribution" ColumnName="Employee_PAYE_Contribution" />
+          <ScalarProperty Name="PAYE_NHIS" ColumnName="PAYE_NHIS" />
+          <ScalarProperty Name="PAYE_NHF" ColumnName="PAYE_NHF" />
+          <ScalarProperty Name="PAYE_Pension" ColumnName="PAYE_Pension" />
+          <ScalarProperty Name="PAYE_Income" ColumnName="PAYE_Income" />
+          <ScalarProperty Name="Life_Assurance" ColumnName="Life_Assurance" />
+          <ScalarProperty Name="NHIS_Declared" ColumnName="NHIS_Declared" />
+          <ScalarProperty Name="NHF_Declared" ColumnName="NHF_Declared" />
+          <ScalarProperty Name="Pension_Contribution_Declared" ColumnName="Pension_Contribution_Declared" />
+          <ScalarProperty Name="Total_Income" ColumnName="Total_Income" />
+          <ScalarProperty Name="Business_TIN" ColumnName="Business_TIN" />
+          <ScalarProperty Name="Business_RIN" ColumnName="Business_RIN" />
+          <ScalarProperty Name="Taxpayer_TIN" ColumnName="Taxpayer_TIN" />
+          <ScalarProperty Name="Taxpayer_RIN" ColumnName="Taxpayer_RIN" />
+          <ScalarProperty Name="transaction_date" ColumnName="transaction_date" />
+          <ScalarProperty Name="DAOutputID" ColumnName="DAOutputID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_RPT_PAYEOutputAggregationList" FunctionName="ERASDWModel.Store.usp_RPT_PAYEOutputAggregationList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASDWModel.usp_RPT_PAYEOutputAggregationList_Result">
+          <ScalarProperty Name="EmployeeName" ColumnName="EmployeeName" />
+          <ScalarProperty Name="EmployeeRIN" ColumnName="EmployeeRIN" />
+          <ScalarProperty Name="AmountContributed" ColumnName="AmountContributed" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_RPT_PAYEOutputAggregationSummary" FunctionName="ERASDWModel.Store.usp_RPT_PAYEOutputAggregationSummary">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASDWModel.usp_RPT_PAYEOutputAggregationSummary_Result">
+          <ScalarProperty Name="EmployerName" ColumnName="EmployerName" />
+          <ScalarProperty Name="EmployerRIN" ColumnName="EmployerRIN" />
+          <ScalarProperty Name="EmployeeCount" ColumnName="EmployeeCount" />
+          <ScalarProperty Name="AmountCollected" ColumnName="AmountCollected" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

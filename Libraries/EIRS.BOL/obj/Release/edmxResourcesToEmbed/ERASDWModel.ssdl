@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ERASDWModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DAInput">
+    <Key>
+      <PropertyRef Name="DAInputID" />
+    </Key>
+    <Property Name="DAInputID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="transaction_date" Type="datetime" />
+    <Property Name="Taxpayer_RIN" Type="varchar" MaxLength="500" />
+    <Property Name="Taxpayer_TIN" Type="varchar" MaxLength="500" />
+    <Property Name="Business_RIN" Type="varchar" MaxLength="500" />
+    <Property Name="Business_TIN" Type="varchar" MaxLength="500" />
+    <Property Name="Salaries" Type="varchar" MaxLength="500" />
+    <Property Name="Wages" Type="varchar" MaxLength="500" />
+    <Property Name="Trade" Type="varchar" MaxLength="500" />
+    <Property Name="Share_of_Partnership_Profit" Type="varchar" MaxLength="500" />
+    <Property Name="Commissions_Recieved" Type="varchar" MaxLength="500" />
+    <Property Name="Bonuses" Type="varchar" MaxLength="500" />
+    <Property Name="Gratuities" Type="varchar" MaxLength="500" />
+    <Property Name="Annuity" Type="varchar" MaxLength="500" />
+    <Property Name="Rent" Type="varchar" MaxLength="500" />
+    <Property Name="Interest_on_Discount" Type="varchar" MaxLength="500" />
+    <Property Name="Other_Incomes_Not_Included" Type="varchar" MaxLength="500" />
+    <Property Name="Total_Income" Type="varchar" MaxLength="500" />
+    <Property Name="Pension_Contribution_Declared" Type="varchar" MaxLength="500" />
+    <Property Name="NHF__Declared" Type="varchar" MaxLength="500" />
+    <Property Name="NHIS_Declared" Type="varchar" MaxLength="500" />
+    <Property Name="Life_Assurance" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_Pension" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_NHF" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_NHIS" Type="varchar" MaxLength="500" />
+    <Property Name="Employee_PAYE_Contribution" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_Income" Type="varchar" MaxLength="500" />
+    <Property Name="Assessment_Year" Type="varchar" MaxLength="500" />
+    <Property Name="Start_Month" Type="varchar" MaxLength="500" />
+    <Property Name="tax_office" Type="varchar" MaxLength="500" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ModifiedBy" Type="int" />
+    <Property Name="ModifiedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="DAOutput">
+    <Key>
+      <PropertyRef Name="DAOutputID" />
+    </Key>
+    <Property Name="DAOutputID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="transaction_date" Type="datetime" />
+    <Property Name="Taxpayer_RIN" Type="varchar" MaxLength="500" />
+    <Property Name="Taxpayer_TIN" Type="varchar" MaxLength="500" />
+    <Property Name="Business_RIN" Type="varchar" MaxLength="500" />
+    <Property Name="Business_TIN" Type="varchar" MaxLength="500" />
+    <Property Name="Total_Income" Type="varchar" MaxLength="500" />
+    <Property Name="Pension_Contribution_Declared" Type="varchar" MaxLength="500" />
+    <Property Name="NHF_Declared" Type="varchar" MaxLength="500" />
+    <Property Name="NHIS_Declared" Type="varchar" MaxLength="500" />
+    <Property Name="Life_Assurance" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_Income" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_Pension" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_NHF" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_NHIS" Type="varchar" MaxLength="500" />
+    <Property Name="Employee_PAYE_Contribution" Type="varchar" MaxLength="500" />
+    <Property Name="Share_of_Assessment" Type="varchar" MaxLength="500" />
+    <Property Name="Assessment_Year" Type="varchar" MaxLength="500" />
+    <Property Name="tax_office" Type="varchar" MaxLength="500" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ModifiedBy" Type="int" />
+    <Property Name="ModifiedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PAYEInput">
+    <Key>
+      <PropertyRef Name="PAYEinputID" />
+    </Key>
+    <Property Name="PAYEinputID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TransactionDate" Type="datetime" />
+    <Property Name="Employer_RIN" Type="varchar" MaxLength="500" />
+    <Property Name="Employee_RIN" Type="varchar" MaxLength="500" />
+    <Property Name="Tax_Office" Type="varchar" MaxLength="500" />
+    <Property Name="Assessment_Year" Type="int" />
+    <Property Name="Start_Month" Type="int" />
+    <Property Name="End_Month" Type="int" />
+    <Property Name="Annual_Basic" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Rent" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Transport" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Utility" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Meal" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Other_Allowances_Annual" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Leave_Transport_Grant_Annual" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="pension_contribution_declared" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="nhf_contribution_declared" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="nhis_contribution_declared" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ModifiedBy" Type="int" />
+    <Property Name="ModifiedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="PAYEOutput">
+    <Key>
+      <PropertyRef Name="PAYEOutputID" />
+    </Key>
+    <Property Name="PAYEOutputID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Transaction_Date" Type="datetime" />
+    <Property Name="Employer_Rin" Type="varchar" MaxLength="500" />
+    <Property Name="Employee_Rin" Type="varchar" MaxLength="500" />
+    <Property Name="AssessmentYear" Type="int" />
+    <Property Name="Assessment_Month" Type="int" />
+    <Property Name="Monthly_Gross" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_CRA" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ValidatedPension" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ValidatedNHF" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ValidatedNHIS" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_TaxFreePay" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ChargeableIncome" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_Tax" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Tax_Office" Type="varchar" MaxLength="500" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ModifiedBy" Type="int" />
+    <Property Name="ModifiedDate" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'ERASDW.dbo.vw_DAInputList' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vw_DAInputList">
+    <Key>
+      <PropertyRef Name="DAInputID" />
+    </Key>
+    <Property Name="DAInputID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="transaction_date" Type="datetime" />
+    <Property Name="Taxpayer_RIN" Type="varchar" MaxLength="500" />
+    <Property Name="Taxpayer_TIN" Type="varchar" MaxLength="500" />
+    <Property Name="Business_RIN" Type="varchar" MaxLength="500" />
+    <Property Name="Business_TIN" Type="varchar" MaxLength="500" />
+    <Property Name="Salaries" Type="varchar" MaxLength="500" />
+    <Property Name="Wages" Type="varchar" MaxLength="500" />
+    <Property Name="Trade" Type="varchar" MaxLength="500" />
+    <Property Name="Share_of_Partnership_Profit" Type="varchar" MaxLength="500" />
+    <Property Name="Commissions_Recieved" Type="varchar" MaxLength="500" />
+    <Property Name="Bonuses" Type="varchar" MaxLength="500" />
+    <Property Name="Gratuities" Type="varchar" MaxLength="500" />
+    <Property Name="Annuity" Type="varchar" MaxLength="500" />
+    <Property Name="Rent" Type="varchar" MaxLength="500" />
+    <Property Name="Interest_on_Discount" Type="varchar" MaxLength="500" />
+    <Property Name="Other_Incomes_Not_Included" Type="varchar" MaxLength="500" />
+    <Property Name="Total_Income" Type="varchar" MaxLength="500" />
+    <Property Name="Pension_Contribution_Declared" Type="varchar" MaxLength="500" />
+    <Property Name="NHF__Declared" Type="varchar" MaxLength="500" />
+    <Property Name="NHIS_Declared" Type="varchar" MaxLength="500" />
+    <Property Name="Life_Assurance" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_Pension" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_NHF" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_NHIS" Type="varchar" MaxLength="500" />
+    <Property Name="Employee_PAYE_Contribution" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_Income" Type="varchar" MaxLength="500" />
+    <Property Name="Assessment_Year" Type="varchar" MaxLength="500" />
+    <Property Name="Start_Month" Type="varchar" MaxLength="500" />
+    <Property Name="tax_office" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'ERASDW.dbo.vw_DAOutputList' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vw_DAOutputList">
+    <Key>
+      <PropertyRef Name="DAOutputID" />
+    </Key>
+    <Property Name="DAOutputID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="transaction_date" Type="varchar" MaxLength="500" />
+    <Property Name="Taxpayer_RIN" Type="varchar" MaxLength="500" />
+    <Property Name="Taxpayer_TIN" Type="varchar" MaxLength="500" />
+    <Property Name="Business_RIN" Type="varchar" MaxLength="500" />
+    <Property Name="Business_TIN" Type="varchar" MaxLength="500" />
+    <Property Name="Total_Income" Type="varchar" MaxLength="500" />
+    <Property Name="Pension_Contribution_Declared" Type="varchar" MaxLength="500" />
+    <Property Name="NHF_Declared" Type="varchar" MaxLength="500" />
+    <Property Name="NHIS_Declared" Type="varchar" MaxLength="500" />
+    <Property Name="Life_Assurance" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_Income" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_Pension" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_NHF" Type="varchar" MaxLength="500" />
+    <Property Name="PAYE_NHIS" Type="varchar" MaxLength="500" />
+    <Property Name="Employee_PAYE_Contribution" Type="varchar" MaxLength="500" />
+    <Property Name="Share_of_Assessment" Type="varchar" MaxLength="500" />
+    <Property Name="Assessment_Year" Type="varchar" MaxLength="500" />
+    <Property Name="tax_office" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'ERASDW.dbo.vw_PAYEInputList' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vw_PAYEInputList">
+    <Key>
+      <PropertyRef Name="PAYEinputID" />
+    </Key>
+    <Property Name="PAYEinputID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TransactionDate" Type="datetime" />
+    <Property Name="Employer_RIN" Type="varchar" MaxLength="500" />
+    <Property Name="Employee_RIN" Type="varchar" MaxLength="500" />
+    <Property Name="Tax_Office" Type="varchar" MaxLength="500" />
+    <Property Name="Assessment_Year" Type="int" />
+    <Property Name="Start_Month" Type="int" />
+    <Property Name="End_Month" Type="int" />
+    <Property Name="Annual_Basic" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Transport" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Utility" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Meal" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Other_Allowances_Annual" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Leave_Transport_Grant_Annual" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="pension_contribution_declared" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="nhf_contribution_declared" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="nhis_contribution_declared" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Annual_Rent" Type="decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'ERASDW.dbo.vw_PAYEOutput' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vw_PAYEOutput">
+    <Key>
+      <PropertyRef Name="PAYEOutputID" />
+    </Key>
+    <Property Name="PAYEOutputID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Transaction_Date" Type="datetime" />
+    <Property Name="Employer_Rin" Type="varchar" MaxLength="500" />
+    <Property Name="Employee_Rin" Type="varchar" MaxLength="500" />
+    <Property Name="AssessmentYear" Type="int" />
+    <Property Name="Assessment_Month" Type="int" />
+    <Property Name="Monthly_Gross" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_CRA" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ValidatedPension" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ValidatedNHF" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ValidatedNHIS" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_TaxFreePay" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_ChargeableIncome" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Monthly_Tax" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Tax_Office" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <Function Name="usp_GetDAInputList" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="DAInputID" Type="int" Mode="In" />
+    <Parameter Name="Taxpayer_RIN" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="usp_GetDAOutputList" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="DAOutputID" Type="int" Mode="In" />
+    <Parameter Name="Taxpayer_RIN" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="usp_GetPAYEInputList" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PAYEInputID" Type="int" Mode="In" />
+    <Parameter Name="Employer_RIN" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="usp_GETPAYEOutput" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PayeOutputID" Type="int" Mode="In" />
+    <Parameter Name="Employer_RIN" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="usp_RPT_PAYEOutputAggregationList" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="EmployerRIN" Type="varchar" Mode="In" />
+    <Parameter Name="TaxYear" Type="int" Mode="In" />
+    <Parameter Name="TaxOfficeID" Type="int" Mode="In" />
+  </Function>
+  <Function Name="usp_RPT_PAYEOutputAggregationSummary" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="TaxYear" Type="int" Mode="In" />
+    <Parameter Name="TaxOfficeID" Type="int" Mode="In" />
+  </Function>
+  <EntityContainer Name="ERASDWModelStoreContainer">
+    <EntitySet Name="DAInput" EntityType="Self.DAInput" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DAOutput" EntityType="Self.DAOutput" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PAYEInput" EntityType="Self.PAYEInput" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PAYEOutput" EntityType="Self.PAYEOutput" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="vw_DAInputList" EntityType="Self.vw_DAInputList" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vw_DAInputList].[DAInputID] AS [DAInputID], 
+    [vw_DAInputList].[transaction_date] AS [transaction_date], 
+    [vw_DAInputList].[Taxpayer_RIN] AS [Taxpayer_RIN], 
+    [vw_DAInputList].[Taxpayer_TIN] AS [Taxpayer_TIN], 
+    [vw_DAInputList].[Business_RIN] AS [Business_RIN], 
+    [vw_DAInputList].[Business_TIN] AS [Business_TIN], 
+    [vw_DAInputList].[Salaries] AS [Salaries], 
+    [vw_DAInputList].[Wages] AS [Wages], 
+    [vw_DAInputList].[Trade] AS [Trade], 
+    [vw_DAInputList].[Share_of_Partnership_Profit] AS [Share_of_Partnership_Profit], 
+    [vw_DAInputList].[Commissions_Recieved] AS [Commissions_Recieved], 
+    [vw_DAInputList].[Bonuses] AS [Bonuses], 
+    [vw_DAInputList].[Gratuities] AS [Gratuities], 
+    [vw_DAInputList].[Annuity] AS [Annuity], 
+    [vw_DAInputList].[Rent] AS [Rent], 
+    [vw_DAInputList].[Interest_on_Discount] AS [Interest_on_Discount], 
+    [vw_DAInputList].[Other_Incomes_Not_Included] AS [Other_Incomes_Not_Included], 
+    [vw_DAInputList].[Total_Income] AS [Total_Income], 
+    [vw_DAInputList].[Pension_Contribution_Declared] AS [Pension_Contribution_Declared], 
+    [vw_DAInputList].[NHF__Declared] AS [NHF__Declared], 
+    [vw_DAInputList].[NHIS_Declared] AS [NHIS_Declared], 
+    [vw_DAInputList].[Life_Assurance] AS [Life_Assurance], 
+    [vw_DAInputList].[PAYE_Pension] AS [PAYE_Pension], 
+    [vw_DAInputList].[PAYE_NHF] AS [PAYE_NHF], 
+    [vw_DAInputList].[PAYE_NHIS] AS [PAYE_NHIS], 
+    [vw_DAInputList].[Employee_PAYE_Contribution] AS [Employee_PAYE_Contribution], 
+    [vw_DAInputList].[PAYE_Income] AS [PAYE_Income], 
+    [vw_DAInputList].[Assessment_Year] AS [Assessment_Year], 
+    [vw_DAInputList].[Start_Month] AS [Start_Month], 
+    [vw_DAInputList].[tax_office] AS [tax_office]
+    FROM [dbo].[vw_DAInputList] AS [vw_DAInputList]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="vw_DAOutputList" EntityType="Self.vw_DAOutputList" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vw_DAOutputList].[DAOutputID] AS [DAOutputID], 
+    [vw_DAOutputList].[transaction_date] AS [transaction_date], 
+    [vw_DAOutputList].[Taxpayer_RIN] AS [Taxpayer_RIN], 
+    [vw_DAOutputList].[Taxpayer_TIN] AS [Taxpayer_TIN], 
+    [vw_DAOutputList].[Business_RIN] AS [Business_RIN], 
+    [vw_DAOutputList].[Business_TIN] AS [Business_TIN], 
+    [vw_DAOutputList].[Total_Income] AS [Total_Income], 
+    [vw_DAOutputList].[Pension_Contribution_Declared] AS [Pension_Contribution_Declared], 
+    [vw_DAOutputList].[NHF_Declared] AS [NHF_Declared], 
+    [vw_DAOutputList].[NHIS_Declared] AS [NHIS_Declared], 
+    [vw_DAOutputList].[Life_Assurance] AS [Life_Assurance], 
+    [vw_DAOutputList].[PAYE_Income] AS [PAYE_Income], 
+    [vw_DAOutputList].[PAYE_Pension] AS [PAYE_Pension], 
+    [vw_DAOutputList].[PAYE_NHF] AS [PAYE_NHF], 
+    [vw_DAOutputList].[PAYE_NHIS] AS [PAYE_NHIS], 
+    [vw_DAOutputList].[Employee_PAYE_Contribution] AS [Employee_PAYE_Contribution], 
+    [vw_DAOutputList].[Share_of_Assessment] AS [Share_of_Assessment], 
+    [vw_DAOutputList].[Assessment_Year] AS [Assessment_Year], 
+    [vw_DAOutputList].[tax_office] AS [tax_office]
+    FROM [dbo].[vw_DAOutputList] AS [vw_DAOutputList]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="vw_PAYEInputList" EntityType="Self.vw_PAYEInputList" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vw_PAYEInputList].[PAYEinputID] AS [PAYEinputID], 
+    [vw_PAYEInputList].[TransactionDate] AS [TransactionDate], 
+    [vw_PAYEInputList].[Employer_RIN] AS [Employer_RIN], 
+    [vw_PAYEInputList].[Employee_RIN] AS [Employee_RIN], 
+    [vw_PAYEInputList].[Tax_Office] AS [Tax_Office], 
+    [vw_PAYEInputList].[Assessment_Year] AS [Assessment_Year], 
+    [vw_PAYEInputList].[Start_Month] AS [Start_Month], 
+    [vw_PAYEInputList].[End_Month] AS [End_Month], 
+    [vw_PAYEInputList].[Annual_Basic] AS [Annual_Basic], 
+    [vw_PAYEInputList].[Annual_Transport] AS [Annual_Transport], 
+    [vw_PAYEInputList].[Annual_Utility] AS [Annual_Utility], 
+    [vw_PAYEInputList].[Annual_Meal] AS [Annual_Meal], 
+    [vw_PAYEInputList].[Other_Allowances_Annual] AS [Other_Allowances_Annual], 
+    [vw_PAYEInputList].[Leave_Transport_Grant_Annual] AS [Leave_Transport_Grant_Annual], 
+    [vw_PAYEInputList].[pension_contribution_declared] AS [pension_contribution_declared], 
+    [vw_PAYEInputList].[nhf_contribution_declared] AS [nhf_contribution_declared], 
+    [vw_PAYEInputList].[nhis_contribution_declared] AS [nhis_contribution_declared], 
+    [vw_PAYEInputList].[Annual_Rent] AS [Annual_Rent]
+    FROM [dbo].[vw_PAYEInputList] AS [vw_PAYEInputList]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="vw_PAYEOutput" EntityType="Self.vw_PAYEOutput" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vw_PAYEOutput].[PAYEOutputID] AS [PAYEOutputID], 
+    [vw_PAYEOutput].[Transaction_Date] AS [Transaction_Date], 
+    [vw_PAYEOutput].[Employer_Rin] AS [Employer_Rin], 
+    [vw_PAYEOutput].[Employee_Rin] AS [Employee_Rin], 
+    [vw_PAYEOutput].[AssessmentYear] AS [AssessmentYear], 
+    [vw_PAYEOutput].[Assessment_Month] AS [Assessment_Month], 
+    [vw_PAYEOutput].[Monthly_Gross] AS [Monthly_Gross], 
+    [vw_PAYEOutput].[Monthly_CRA] AS [Monthly_CRA], 
+    [vw_PAYEOutput].[Monthly_ValidatedPension] AS [Monthly_ValidatedPension], 
+    [vw_PAYEOutput].[Monthly_ValidatedNHF] AS [Monthly_ValidatedNHF], 
+    [vw_PAYEOutput].[Monthly_ValidatedNHIS] AS [Monthly_ValidatedNHIS], 
+    [vw_PAYEOutput].[Monthly_TaxFreePay] AS [Monthly_TaxFreePay], 
+    [vw_PAYEOutput].[Monthly_ChargeableIncome] AS [Monthly_ChargeableIncome], 
+    [vw_PAYEOutput].[Monthly_Tax] AS [Monthly_Tax], 
+    [vw_PAYEOutput].[Tax_Office] AS [Tax_Office]
+    FROM [dbo].[vw_PAYEOutput] AS [vw_PAYEOutput]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

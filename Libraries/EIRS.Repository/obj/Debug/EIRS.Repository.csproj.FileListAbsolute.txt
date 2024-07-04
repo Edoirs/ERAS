@@ -1,0 +1,1356 @@
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\olaopaia\Downloads\EIRS\EIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Official Projects\EIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\Temitayo\EIRS\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\TemitayoOyetunji\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo\Desktop\EIRS\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\Patrick\source\repos\master\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\NowNow\NewEIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Personal Folder\EIRSLocal\NewEIRS\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\Admin\Desktop\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\Temitayo\Desktop\eras\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\NowNow\amy\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\NowNow\amy\eirs-main 3 loader\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\Temitayo Oyetunji\Desktop\NowNow\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Text.Json.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Memory.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Buffers.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Text.Json.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Memory.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Buffers.xml
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\tytun\OneDrive\Desktop\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Text.Json.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Memory.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Buffers.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Text.Json.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Memory.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\System.Buffers.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\eirs-main\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Text.Json.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Memory.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Buffers.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Text.Json.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Memory.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Buffers.xml
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Senator Ty\Desktop\NowNow\NowNow\temitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Text.Json.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Memory.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Buffers.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Text.Json.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Memory.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\System.Buffers.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.Text.Json.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.Memory.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.Buffers.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.Text.Json.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.Memory.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\System.Buffers.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NowNow\New folder\temitayo\devtemitayo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Text.Json.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Memory.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Buffers.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Text.Json.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Memory.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Buffers.xml
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CopyComplete
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\Temitayo Oyetunji\source\repos\NewRepo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\libSkiaSharp.dylib
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.Repository.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\PdfSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\itextsharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\RestSharp.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EPPlus.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Text.Json.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Memory.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Buffers.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.BOL.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.pdb
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EIRS.Common.dll.config
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\PdfSharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\itextsharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\RestSharp.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\EPPlus.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Text.Json.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Memory.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\System.Buffers.xml
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.AssemblyReference.cache
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\obj\Debug\EIRS.Rep.09128FCD.Up2Date
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.dll
+C:\Users\Temitayo Oyetunji\Desktop\FromXLaptop\NowNow\NewRepo\Libraries\EIRS.Repository\obj\Debug\EIRS.Repository.pdb

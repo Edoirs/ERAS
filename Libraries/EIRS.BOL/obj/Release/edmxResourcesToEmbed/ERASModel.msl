@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ERASModelStoreContainer" CdmEntityContainer="ERASEntities">
+    <EntitySetMapping Name="MST_AwarenessCategory">
+      <EntityTypeMapping TypeName="ERASModel.MST_AwarenessCategory">
+        <MappingFragment StoreEntitySet="MST_AwarenessCategory">
+          <ScalarProperty Name="AwarenessCategoryID" ColumnName="AwarenessCategoryID" />
+          <ScalarProperty Name="AwarenessCategoryName" ColumnName="AwarenessCategoryName" />
+          <ScalarProperty Name="SectionDescription" ColumnName="SectionDescription" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MST_Business">
+      <EntityTypeMapping TypeName="ERASModel.MST_Business">
+        <MappingFragment StoreEntitySet="MST_Business">
+          <ScalarProperty Name="BusinessID" ColumnName="BusinessID" />
+          <ScalarProperty Name="BusinessName" ColumnName="BusinessName" />
+          <ScalarProperty Name="BusinessAddress" ColumnName="BusinessAddress" />
+          <ScalarProperty Name="BusinessSector" ColumnName="BusinessSector" />
+          <ScalarProperty Name="BusinessSubSector" ColumnName="BusinessSubSector" />
+          <ScalarProperty Name="BusinessType" ColumnName="BusinessType" />
+          <ScalarProperty Name="BusinessCategory" ColumnName="BusinessCategory" />
+          <ScalarProperty Name="AssetType" ColumnName="AssetType" />
+          <ScalarProperty Name="BusinessStructure" ColumnName="BusinessStructure" />
+          <ScalarProperty Name="BusinessOperation" ColumnName="BusinessOperation" />
+          <ScalarProperty Name="Size" ColumnName="Size" />
+          <ScalarProperty Name="LGA" ColumnName="LGA" />
+          <ScalarProperty Name="TIN" ColumnName="TIN" />
+          <ScalarProperty Name="TaxOffice" ColumnName="TaxOffice" />
+          <ScalarProperty Name="ContactName" ColumnName="ContactName" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="PAYE" ColumnName="PAYE" />
+          <ScalarProperty Name="DirectAssessment" ColumnName="DirectAssessment" />
+          <ScalarProperty Name="PresumptiveTax" ColumnName="PresumptiveTax" />
+          <ScalarProperty Name="BusinessPremises" ColumnName="BusinessPremises" />
+          <ScalarProperty Name="ConsumtpionTaxes" ColumnName="ConsumtpionTaxes" />
+          <ScalarProperty Name="MDAServices" ColumnName="MDAServices" />
+          <ScalarProperty Name="Source" ColumnName="Source" />
+          <ScalarProperty Name="BuildingTag" ColumnName="BuildingTag" />
+          <ScalarProperty Name="Latitude" ColumnName="Latitude" />
+          <ScalarProperty Name="Longitude" ColumnName="Longitude" />
+          <ScalarProperty Name="PhoneVerified" ColumnName="PhoneVerified" />
+          <ScalarProperty Name="Claimed" ColumnName="Claimed" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MST_FAQ">
+      <EntityTypeMapping TypeName="ERASModel.MST_FAQ">
+        <MappingFragment StoreEntitySet="MST_FAQ">
+          <ScalarProperty Name="FAQID" ColumnName="FAQID" />
+          <ScalarProperty Name="AwarenessCategoryID" ColumnName="AwarenessCategoryID" />
+          <ScalarProperty Name="FAQTitle" ColumnName="FAQTitle" />
+          <ScalarProperty Name="FAQText" ColumnName="FAQText" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MST_Menu">
+      <EntityTypeMapping TypeName="ERASModel.MST_Menu">
+        <MappingFragment StoreEntitySet="MST_Menu">
+          <ScalarProperty Name="MenuID" ColumnName="MenuID" />
+          <ScalarProperty Name="MenuName" ColumnName="MenuName" />
+          <ScalarProperty Name="ParentMenuID" ColumnName="ParentMenuID" />
+          <ScalarProperty Name="MenuURL" ColumnName="MenuURL" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="SortOrder" ColumnName="SortOrder" />
+          <ScalarProperty Name="PageHeader" ColumnName="PageHeader" />
+          <ScalarProperty Name="ShortDesc" ColumnName="ShortDesc" />
+          <ScalarProperty Name="PageContent" ColumnName="PageContent" />
+          <ScalarProperty Name="PageTitle" ColumnName="PageTitle" />
+          <ScalarProperty Name="MetaTitle" ColumnName="MetaTitle" />
+          <ScalarProperty Name="MetaKeywords" ColumnName="MetaKeywords" />
+          <ScalarProperty Name="MetaDescription" ColumnName="MetaDescription" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MST_Pages">
+      <EntityTypeMapping TypeName="ERASModel.MST_Pages">
+        <MappingFragment StoreEntitySet="MST_Pages">
+          <ScalarProperty Name="PageID" ColumnName="PageID" />
+          <ScalarProperty Name="PageName" ColumnName="PageName" />
+          <ScalarProperty Name="PageHeader" ColumnName="PageHeader" />
+          <ScalarProperty Name="ShortDesc" ColumnName="ShortDesc" />
+          <ScalarProperty Name="PageContent" ColumnName="PageContent" />
+          <ScalarProperty Name="PageTitle" ColumnName="PageTitle" />
+          <ScalarProperty Name="MetaTitle" ColumnName="MetaTitle" />
+          <ScalarProperty Name="MetaKeywords" ColumnName="MetaKeywords" />
+          <ScalarProperty Name="MetaDescription" ColumnName="MetaDescription" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SystemRoles">
+      <EntityTypeMapping TypeName="ERASModel.SystemRole">
+        <MappingFragment StoreEntitySet="SystemRole">
+          <ScalarProperty Name="SystemRoleID" ColumnName="SystemRoleID" />
+          <ScalarProperty Name="SystemRoleName" ColumnName="SystemRoleName" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SystemUsers">
+      <EntityTypeMapping TypeName="ERASModel.SystemUser">
+        <MappingFragment StoreEntitySet="SystemUser">
+          <ScalarProperty Name="SystemUserID" ColumnName="SystemUserID" />
+          <ScalarProperty Name="SystemUserName" ColumnName="SystemUserName" />
+          <ScalarProperty Name="UserLogin" ColumnName="UserLogin" />
+          <ScalarProperty Name="UserPassword" ColumnName="UserPassword" />
+          <ScalarProperty Name="SystemRoleID" ColumnName="SystemRoleID" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="LastLogin" ColumnName="LastLogin" />
+          <ScalarProperty Name="FailedLoginCount" ColumnName="FailedLoginCount" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetAwarenessCategoryList" FunctionName="ERASModel.Store.usp_GetAwarenessCategoryList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASModel.usp_GetAwarenessCategoryList_Result">
+          <ScalarProperty Name="AwarenessCategoryID" ColumnName="AwarenessCategoryID" />
+          <ScalarProperty Name="AwarenessCategoryName" ColumnName="AwarenessCategoryName" />
+          <ScalarProperty Name="SectionDescription" ColumnName="SectionDescription" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ActiveText" ColumnName="ActiveText" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetFAQList" FunctionName="ERASModel.Store.usp_GetFAQList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASModel.usp_GetFAQList_Result">
+          <ScalarProperty Name="AwarenessCategoryID" ColumnName="AwarenessCategoryID" />
+          <ScalarProperty Name="AwarenessCategoryName" ColumnName="AwarenessCategoryName" />
+          <ScalarProperty Name="FAQID" ColumnName="FAQID" />
+          <ScalarProperty Name="FAQTitle" ColumnName="FAQTitle" />
+          <ScalarProperty Name="FAQText" ColumnName="FAQText" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ActiveText" ColumnName="ActiveText" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetMenuList" FunctionName="ERASModel.Store.usp_GetMenuList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASModel.usp_GetMenuList_Result">
+          <ScalarProperty Name="MenuID" ColumnName="MenuID" />
+          <ScalarProperty Name="ParentMenuID" ColumnName="ParentMenuID" />
+          <ScalarProperty Name="ParentMenuName" ColumnName="ParentMenuName" />
+          <ScalarProperty Name="ParentMenuUrl" ColumnName="ParentMenuUrl" />
+          <ScalarProperty Name="MenuURL" ColumnName="MenuURL" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ActiveText" ColumnName="ActiveText" />
+          <ScalarProperty Name="SortOrder" ColumnName="SortOrder" />
+          <ScalarProperty Name="MenuTreeName" ColumnName="MenuTreeName" />
+          <ScalarProperty Name="MenuName" ColumnName="MenuName" />
+          <ScalarProperty Name="GeneratedMenu" ColumnName="GeneratedMenu" />
+          <ScalarProperty Name="PageHeader" ColumnName="PageHeader" />
+          <ScalarProperty Name="ShortDesc" ColumnName="ShortDesc" />
+          <ScalarProperty Name="PageContent" ColumnName="PageContent" />
+          <ScalarProperty Name="PageTitle" ColumnName="PageTitle" />
+          <ScalarProperty Name="MetaTitle" ColumnName="MetaTitle" />
+          <ScalarProperty Name="MetaKeywords" ColumnName="MetaKeywords" />
+          <ScalarProperty Name="MetaDescription" ColumnName="MetaDescription" />
+          <ScalarProperty Name="HLevel" ColumnName="HLevel" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetPageList" FunctionName="ERASModel.Store.usp_GetPageList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASModel.usp_GetPageList_Result">
+          <ScalarProperty Name="PageID" ColumnName="PageID" />
+          <ScalarProperty Name="PageName" ColumnName="PageName" />
+          <ScalarProperty Name="PageHeader" ColumnName="PageHeader" />
+          <ScalarProperty Name="ShortDesc" ColumnName="ShortDesc" />
+          <ScalarProperty Name="PageContent" ColumnName="PageContent" />
+          <ScalarProperty Name="PageTitle" ColumnName="PageTitle" />
+          <ScalarProperty Name="MetaTitle" ColumnName="MetaTitle" />
+          <ScalarProperty Name="MetaKeywords" ColumnName="MetaKeywords" />
+          <ScalarProperty Name="MetaDescription" ColumnName="MetaDescription" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetSystemUserList" FunctionName="ERASModel.Store.usp_GetSystemUserList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASModel.usp_GetSystemUserList_Result">
+          <ScalarProperty Name="SystemUserID" ColumnName="SystemUserID" />
+          <ScalarProperty Name="SystemUserName" ColumnName="SystemUserName" />
+          <ScalarProperty Name="UserPassword" ColumnName="UserPassword" />
+          <ScalarProperty Name="UserLogin" ColumnName="UserLogin" />
+          <ScalarProperty Name="SystemRoleID" ColumnName="SystemRoleID" />
+          <ScalarProperty Name="SystemRoleName" ColumnName="SystemRoleName" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ActiveText" ColumnName="ActiveText" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetClaimBusinessList" FunctionName="ERASModel.Store.usp_GetClaimBusinessList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASModel.usp_GetClaimBusinessList_Result">
+          <ScalarProperty Name="BusinessID" ColumnName="BusinessID" />
+          <ScalarProperty Name="BusinessName" ColumnName="BusinessName" />
+          <ScalarProperty Name="BusinessAddress" ColumnName="BusinessAddress" />
+          <ScalarProperty Name="BusinessSector" ColumnName="BusinessSector" />
+          <ScalarProperty Name="BusinessSubSector" ColumnName="BusinessSubSector" />
+          <ScalarProperty Name="BusinessType" ColumnName="BusinessType" />
+          <ScalarProperty Name="BusinessCategory" ColumnName="BusinessCategory" />
+          <ScalarProperty Name="AssetType" ColumnName="AssetType" />
+          <ScalarProperty Name="BusinessStructure" ColumnName="BusinessStructure" />
+          <ScalarProperty Name="BusinessOperation" ColumnName="BusinessOperation" />
+          <ScalarProperty Name="Size" ColumnName="Size" />
+          <ScalarProperty Name="LGA" ColumnName="LGA" />
+          <ScalarProperty Name="TIN" ColumnName="TIN" />
+          <ScalarProperty Name="TaxOffice" ColumnName="TaxOffice" />
+          <ScalarProperty Name="ContactName" ColumnName="ContactName" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="PAYE" ColumnName="PAYE" />
+          <ScalarProperty Name="DirectAssessment" ColumnName="DirectAssessment" />
+          <ScalarProperty Name="PresumptiveTax" ColumnName="PresumptiveTax" />
+          <ScalarProperty Name="BusinessPremises" ColumnName="BusinessPremises" />
+          <ScalarProperty Name="ConsumtpionTaxes" ColumnName="ConsumtpionTaxes" />
+          <ScalarProperty Name="MDAServices" ColumnName="MDAServices" />
+          <ScalarProperty Name="Source" ColumnName="Source" />
+          <ScalarProperty Name="BuildingTag" ColumnName="BuildingTag" />
+          <ScalarProperty Name="Latitude" ColumnName="Latitude" />
+          <ScalarProperty Name="Longitude" ColumnName="Longitude" />
+          <ScalarProperty Name="PhoneVerified" ColumnName="PhoneVerified" />
+          <ScalarProperty Name="Claimed" ColumnName="Claimed" />
+          <ScalarProperty Name="ClaimedText" ColumnName="ClaimedText" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ActiveText" ColumnName="ActiveText" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="MST_UserType">
+      <EntityTypeMapping TypeName="ERASModel.MST_UserType">
+        <MappingFragment StoreEntitySet="MST_UserType">
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="UserTypeName" ColumnName="UserTypeName" />
+          <ScalarProperty Name="UserTypeID" ColumnName="UserTypeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetUserList" FunctionName="ERASModel.Store.usp_GetUserList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASModel.usp_GetUserList_Result">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="UserTypeID" ColumnName="UserTypeID" />
+          <ScalarProperty Name="UserTypeName" ColumnName="UserTypeName" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="ContactName" ColumnName="ContactName" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="ContactNumber" ColumnName="ContactNumber" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ActiveText" ColumnName="ActiveText" />
+          <ScalarProperty Name="IsTOManager" ColumnName="IsTOManager" />
+          <ScalarProperty Name="IsTOManagerText" ColumnName="IsTOManagerText" />
+          <ScalarProperty Name="TaxOfficeID" ColumnName="TaxOfficeID" />
+          <ScalarProperty Name="TaxOfficeName" ColumnName="TaxOfficeName" />
+          <ScalarProperty Name="TOManagerID" ColumnName="TOManagerID" />
+          <ScalarProperty Name="TOManagerName" ColumnName="TOManagerName" />
+          <ScalarProperty Name="SignaturePath" ColumnName="SignaturePath" />
+          <ScalarProperty Name="IsDirector" ColumnName="IsDirector" />
+          <ScalarProperty Name="IsDirectorText" ColumnName="IsDirectorText" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="MAP_CentralMenu_Screen">
+      <EntityTypeMapping TypeName="ERASModel.MAP_CentralMenu_Screen">
+        <MappingFragment StoreEntitySet="MAP_CentralMenu_Screen">
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="isMainScreen" ColumnName="isMainScreen" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ScreenID" ColumnName="ScreenID" />
+          <ScalarProperty Name="CentralMenuID" ColumnName="CentralMenuID" />
+          <ScalarProperty Name="CMSID" ColumnName="CMSID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MAP_User_Screen">
+      <EntityTypeMapping TypeName="ERASModel.MAP_User_Screen">
+        <MappingFragment StoreEntitySet="MAP_User_Screen">
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ScreenID" ColumnName="ScreenID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="USID" ColumnName="USID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MST_CentralMenu">
+      <EntityTypeMapping TypeName="ERASModel.MST_CentralMenu">
+        <MappingFragment StoreEntitySet="MST_CentralMenu">
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="MenuType" ColumnName="MenuType" />
+          <ScalarProperty Name="SortOrder" ColumnName="SortOrder" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ParentCentralMenuID" ColumnName="ParentCentralMenuID" />
+          <ScalarProperty Name="CentralMenuName" ColumnName="CentralMenuName" />
+          <ScalarProperty Name="CentralMenuID" ColumnName="CentralMenuID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MST_Screen">
+      <EntityTypeMapping TypeName="ERASModel.MST_Screen">
+        <MappingFragment StoreEntitySet="MST_Screen">
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ScreenUrl" ColumnName="ScreenUrl" />
+          <ScalarProperty Name="ViewName" ColumnName="ViewName" />
+          <ScalarProperty Name="ActionName" ColumnName="ActionName" />
+          <ScalarProperty Name="ControllerName" ColumnName="ControllerName" />
+          <ScalarProperty Name="ScreenName" ColumnName="ScreenName" />
+          <ScalarProperty Name="ScreenID" ColumnName="ScreenID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetCentralMenuList" FunctionName="ERASModel.Store.usp_GetCentralMenuList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASModel.usp_GetCentralMenuList_Result">
+          <ScalarProperty Name="CentralMenuID" ColumnName="CentralMenuID" />
+          <ScalarProperty Name="CentralMenuName" ColumnName="CentralMenuName" />
+          <ScalarProperty Name="ParentCentralMenuID" ColumnName="ParentCentralMenuID" />
+          <ScalarProperty Name="ParentCentralMenuName" ColumnName="ParentCentralMenuName" />
+          <ScalarProperty Name="MenuType" ColumnName="MenuType" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ActiveText" ColumnName="ActiveText" />
+          <ScalarProperty Name="SortOrder" ColumnName="SortOrder" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetCentralMenuUserBased" FunctionName="ERASModel.Store.usp_GetCentralMenuUserBased">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASModel.usp_GetCentralMenuUserBased_Result">
+          <ScalarProperty Name="CentralMenuID" ColumnName="CentralMenuID" />
+          <ScalarProperty Name="CentralMenuName" ColumnName="CentralMenuName" />
+          <ScalarProperty Name="ControllerName" ColumnName="ControllerName" />
+          <ScalarProperty Name="ActionName" ColumnName="ActionName" />
+          <ScalarProperty Name="SortOrder" ColumnName="SortOrder" />
+          <ScalarProperty Name="ParentMenuName" ColumnName="ParentMenuName" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetScreenList" FunctionName="ERASModel.Store.usp_GetScreenList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASModel.usp_GetScreenList_Result">
+          <ScalarProperty Name="ScreenID" ColumnName="ScreenID" />
+          <ScalarProperty Name="ScreenName" ColumnName="ScreenName" />
+          <ScalarProperty Name="ScreenUrl" ColumnName="ScreenUrl" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ActiveText" ColumnName="ActiveText" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetScreenMenuList" FunctionName="ERASModel.Store.usp_GetScreenMenuList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASModel.usp_GetScreenMenuList_Result">
+          <ScalarProperty Name="CMSID" ColumnName="CMSID" />
+          <ScalarProperty Name="CentralMenuID" ColumnName="CentralMenuID" />
+          <ScalarProperty Name="CentralMenuName" ColumnName="CentralMenuName" />
+          <ScalarProperty Name="ParentCentralMenuName" ColumnName="ParentCentralMenuName" />
+          <ScalarProperty Name="ScreenName" ColumnName="ScreenName" />
+          <ScalarProperty Name="ScreenUrl" ColumnName="ScreenUrl" />
+          <ScalarProperty Name="isMainScreen" ColumnName="isMainScreen" />
+          <ScalarProperty Name="MainScreenText" ColumnName="MainScreenText" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetScreenUserList" FunctionName="ERASModel.Store.usp_GetScreenUserList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASModel.usp_GetScreenUserList_Result">
+          <ScalarProperty Name="USID" ColumnName="USID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="ContactName" ColumnName="ContactName" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="ScreenName" ColumnName="ScreenName" />
+          <ScalarProperty Name="ScreenUrl" ColumnName="ScreenUrl" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="MAP_API_Users_Rights">
+      <EntityTypeMapping TypeName="ERASModel.MAP_API_Users_Rights">
+        <MappingFragment StoreEntitySet="MAP_API_Users_Rights">
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="APIAccess" ColumnName="APIAccess" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="APIID" ColumnName="APIID" />
+          <ScalarProperty Name="UAID" ColumnName="UAID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetAPIList" FunctionName="ERASModel.Store.usp_GetAPIList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASModel.usp_GetAPIList_Result">
+          <ScalarProperty Name="APIID" ColumnName="APIID" />
+          <ScalarProperty Name="APIName" ColumnName="APIName" />
+          <ScalarProperty Name="APIDescription" ColumnName="APIDescription" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ActiveText" ColumnName="ActiveText" />
+          <ScalarProperty Name="DocumentPath" ColumnName="DocumentPath" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_GetAPIUserRightList" FunctionName="ERASModel.Store.usp_GetAPIUserRightList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ERASModel.usp_GetAPIUserRightList_Result">
+          <ScalarProperty Name="UAID" ColumnName="UAID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="APIID" ColumnName="APIID" />
+          <ScalarProperty Name="APIName" ColumnName="APIName" />
+          <ScalarProperty Name="APIAccess" ColumnName="APIAccess" />
+          <ScalarProperty Name="APIAccessText" ColumnName="APIAccessText" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="MST_UserToken">
+      <EntityTypeMapping TypeName="ERASModel.MST_UserToken">
+        <MappingFragment StoreEntitySet="MST_UserToken">
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="IPAddresss" ColumnName="IPAddresss" />
+          <ScalarProperty Name="TokenExpiresDate" ColumnName="TokenExpiresDate" />
+          <ScalarProperty Name="TokenIssuedDate" ColumnName="TokenIssuedDate" />
+          <ScalarProperty Name="Token" ColumnName="Token" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="TokenID" ColumnName="TokenID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MST_API">
+      <EntityTypeMapping TypeName="ERASModel.MST_API">
+        <MappingFragment StoreEntitySet="MST_API">
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="DocumentPath" ColumnName="DocumentPath" />
+          <ScalarProperty Name="APIDescription" ColumnName="APIDescription" />
+          <ScalarProperty Name="ActionName" ColumnName="ActionName" />
+          <ScalarProperty Name="ControllerName" ColumnName="ControllerName" />
+          <ScalarProperty Name="APIName" ColumnName="APIName" />
+          <ScalarProperty Name="APIID" ColumnName="APIID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MST_Users">
+      <EntityTypeMapping TypeName="ERASModel.MST_Users">
+        <MappingFragment StoreEntitySet="MST_Users">
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="IsDirector" ColumnName="IsDirector" />
+          <ScalarProperty Name="SignaturePath" ColumnName="SignaturePath" />
+          <ScalarProperty Name="TOManagerID" ColumnName="TOManagerID" />
+          <ScalarProperty Name="TaxOfficeID" ColumnName="TaxOfficeID" />
+          <ScalarProperty Name="IsTOManager" ColumnName="IsTOManager" />
+          <ScalarProperty Name="FailedLoginCount" ColumnName="FailedLoginCount" />
+          <ScalarProperty Name="LastLogin" ColumnName="LastLogin" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ContactNumber" ColumnName="ContactNumber" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="ContactName" ColumnName="ContactName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="UserTypeID" ColumnName="UserTypeID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
